@@ -1,6 +1,6 @@
 # Property Data Scraper
 
-A Python tool to collect and analyze real estate listings.
+A Python tool to collect and analyze real estate listings
 
 ## Setup
 
@@ -33,6 +33,6 @@ jupyter notebook analysis.ipynb
 
 ## Output
 
-CSV files with property data will be created.
+CSV files with property data will be created
 
-Note: Use responsibly and respect website terms.
+Note: Use responsibly and respect website terms
